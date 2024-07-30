@@ -2,6 +2,6 @@
 
 explanation blah blah blah
 
-# Methodology
+## Methodology
 
 methods blah blah blah
