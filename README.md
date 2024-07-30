@@ -1,7 +1,7 @@
 # Stock-Data-Analysis
 
-explanation blah blah blah
+Analysing stock prices from 2006 to 2016
 
 ## Methodology
 
-methods blah blah blah
+Using pandas, seaborn, inbuilt features etc.
